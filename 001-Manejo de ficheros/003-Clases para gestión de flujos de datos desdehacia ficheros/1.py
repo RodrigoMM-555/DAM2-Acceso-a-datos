@@ -6,7 +6,6 @@ def escribir_temperaturas():
     fichero = open(NOMBRE_FICHERO_TEMPERATURAS, "w")
     fichero.write("18.5\n21.0\n19.2")
     fichero.close()
-    
     pass
 
 def leer_temperaturas():
