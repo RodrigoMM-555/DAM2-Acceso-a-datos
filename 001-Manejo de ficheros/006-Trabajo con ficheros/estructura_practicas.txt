@@ -1,4 +1,0 @@
-practicas/
-    tercera/
-    primera/
-    segunda/
