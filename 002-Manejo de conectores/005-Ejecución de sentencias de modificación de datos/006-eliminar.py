@@ -2,7 +2,7 @@ import mysql.connector
 
 # Según el enunciado, Ana tiene el identificador 4.
 # Si recibió otro identificador, cambia el valor de esta variable.
-identificador_ana = 4
+identificador_ana = 1
 
 conexion = mysql.connector.connect(
     host="localhost",
